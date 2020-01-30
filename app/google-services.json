@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198201980868",
+    "firebase_url": "https://coffee-for-eglu.firebaseio.com",
+    "project_id": "coffee-for-eglu",
+    "storage_bucket": "coffee-for-eglu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198201980868:android:77273e13dc7668b3701691",
+        "android_client_info": {
+          "package_name": "com.example.coffeeforeglu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198201980868-atskvqubuj3durn875sa6r3c0rrq2isd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7G_u7EfrTKbYv5vuahnU8-fO0e-JeJEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198201980868-atskvqubuj3durn875sa6r3c0rrq2isd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

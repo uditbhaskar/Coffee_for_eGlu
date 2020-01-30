@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee for eGlu</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="coffee_type">Coffee Type</string>
+    <string name="espresso">Espresso</string>
+    <string name="capetuno">Capetuno</string>
+    <string name="latte">Latte</string>
+    <string name="cup_size">Cup Size</string>
+    <string name="regular">Regular</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="total">Total : </string>
+    <string name="place_order">Place Order</string>
+
+</resources>
